@@ -1,4 +1,4 @@
-# dots color scheme
+# vim-abbrevs
 
 My vim abbreviations
 
