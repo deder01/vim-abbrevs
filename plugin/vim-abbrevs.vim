@@ -1,5 +1,6 @@
 " Javascript
 iabbrev cosole console
+iabbrev cnosole console
 
 " Spelling
 iabbrev tehne then
